@@ -1,2 +1,24 @@
-# timetabling-genetic-algorithm-using-vue
-I developed a solution for the timetabling problem using genetic algorithm. JavaScript and VueJS were used in order to develop this project. This genetic algorithm generates a random initial population, then proceeds to breed and create new individuals while evaluating their fitness score, those individuals have 10% chance of suffering a mutation. After 100 generations, an optimal solution for our timetabling problem is presented.
+# genetico-v2
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
